@@ -1,4 +1,4 @@
 # myfirstdemo
 This is my first repository demo
 <br>
-Author - Sanket Shendkar
+Author - Sanket (Student)
